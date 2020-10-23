@@ -25,7 +25,7 @@ SECRET_KEY = '3w9_-m$1x+1k!2m(ivmbo4t$(+0h0xo@z&suh@@65pi7ray=ks'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['http://127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','gallery-point.herokuapp.com']
 
 
 # Application definition
